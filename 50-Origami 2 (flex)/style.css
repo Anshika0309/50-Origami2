@@ -1,0 +1,53 @@
+p{
+            color:khaki;
+            font-size:30px;
+        }
+        img{
+            border: 7px solid powderblue;
+        }
+body{
+    background-color:whitesmoke;
+    padding: 20px;
+    margin:0pt;
+    font-size:medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.body_img{
+    color:cadetblue;
+}
+
+.menu{
+    display: flex;
+    justify-content:space-between;
+    display: flex;
+    flex-wrap:wrap;
+    font-family: sans-serif;
+    font-size: 20px;
+    color:brown;
+    background-color:antiquewhite;
+    font-weight: 400;
+
+}
+
+.grid img{
+border: 10px solid indianred;
+border-radius: 80px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    margin: 20px;
+}
+
+.origami{
+border-radius: 50px;
+display: flex;
+flex-wrap:wrap;
+padding: 30px;
+margin: 25px;
+background-color:lightcoral;
+width: 400px;
+font-weight: 400;
+font-family:Arial, Helvetica, sans-serif;
+}
